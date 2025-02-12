@@ -7,7 +7,7 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\UE\UE427\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.cpp.obj"
-"C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.gen.cpp.obj"
+"C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.cpp.obj"
+"C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.gen.cpp.obj"
 "C:\UE\UE427\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
-/OUT:"C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\UE4Editor-ElectronicNodes.lib"
+/OUT:"C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\UE4Editor-ElectronicNodes.lib"
