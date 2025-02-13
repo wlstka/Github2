@@ -33,7 +33,7 @@
 /wd4838
 /I .
 /I Editor\AnimationBlueprintEditor\Private
-/I C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Private
+/I C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -265,9 +265,9 @@
 /I Editor\BehaviorTreeEditor\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\WebBrowser
 /I Runtime\WebBrowser\Public
-/I C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Inc\ElectronicNodes
-/I C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source
-/I C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Public
+/I C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Inc\ElectronicNodes
+/I C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source
+/I C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -291,7 +291,7 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
@@ -300,9 +300,9 @@
 /FI"C:\UE\UE427\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
 /Yu"C:\UE\UE427\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
 /Fp"C:\UE\UE427\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-"C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.cpp"
-/FI"C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Definitions.ElectronicNodes.h"
-/Fo"C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.cpp.obj"
+"C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.cpp"
+/FI"C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Definitions.ElectronicNodes.h"
+/Fo"C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Module.ElectronicNodes.cpp.obj"
 /TP
 /GR-
 /W4

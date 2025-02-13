@@ -1,9 +1,9 @@
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Definitions.ElectronicNodes.h
-C:/Users/parkjs/Desktop/Github2/Plugins/ElectronicNodes/Source/ElectronicNodes/Private/ElectronicNodes.cpp
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Public\ElectronicNodes.h
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Public\ElectronicNodesSettings.h
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Inc\ElectronicNodes\ElectronicNodesSettings.generated.h
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENConnectionDrawingPolicy.h
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Development\ElectronicNodes\Definitions.ElectronicNodes.h
+C:/UEBC2/parkjs/BattleEnded/Plugins/ElectronicNodes/Source/ElectronicNodes/Private/ElectronicNodes.cpp
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Public\ElectronicNodes.h
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Public\ElectronicNodesSettings.h
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Inc\ElectronicNodes\ElectronicNodesSettings.generated.h
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENConnectionDrawingPolicy.h
 C:\UE\UE427\Engine\Source\Editor\UnrealEd\Public\EdGraphUtilities.h
 C:\UE\UE427\Engine\Source\Editor\GraphEditor\Public\ConnectionDrawingPolicy.h
 C:\UE\UE427\Engine\Source\Editor\GraphEditor\Public\SGraphPin.h
@@ -16,7 +16,7 @@ C:\UE\UE427\Engine\Source\Editor\UnrealEd\Public\EdGraphNode_Comment.h
 C:\UE\UE427\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\EdGraphNode_Comment.generated.h
 C:\UE\UE427\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GraphEditor\GraphEditorSettings.generated.h
 C:\UE\UE427\Engine\Source\Editor\GraphEditor\Public\BlueprintConnectionDrawingPolicy.h
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENCommands.h
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENCommands.h
 C:\UE\UE427\Engine\Source\Editor\GraphEditor\Public\NodeFactory.h
 C:\UE\UE427\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
 C:\UE\UE427\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
@@ -26,14 +26,14 @@ C:\UE\UE427\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
 C:\UE\UE427\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
 C:\UE\UE427\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
 C:\UE\UE427\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Lib/HotPatch.h
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Lib/HotPatch.h
 C:\UE\UE427\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
 C:\UE\UE427\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
 C:\UE\UE427\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
 C:\UE\UE427\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\excpt.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\INCLUDE\excpt.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
@@ -130,22 +130,22 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
 C:\UE\UE427\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
 C:\UE\UE427\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
 C:\UE\UE427\Engine\Source\Editor\MainFrame/Public/Interfaces/IMainFrameModule.h
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Patch/NodeFactoryPatch.h
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Popup/ENUpdatePopup.h
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Patch/NodeFactoryPatch.h
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Popup/ENUpdatePopup.h
 C:\UE\UE427\Engine\Source\Runtime\Slate\Public\Framework/Text/SlateHyperlinkRun.h
 C:\UE\UE427\Engine\Source\Runtime\Slate\Public\Framework/Text/ILayoutBlock.h
 C:\UE\UE427\Engine\Source\Runtime\Slate\Public\Framework/Text/IRunRenderer.h
 C:\UE\UE427\Engine\Source\Runtime\Slate\Public\Framework/Text/ISlateRun.h
 C:\UE\UE427\Engine\Source\Developer\SettingsEditor/Public/ISettingsEditorModule.h
-C:/Users/parkjs/Desktop/Github2/Plugins/ElectronicNodes/Source/ElectronicNodes/Private/ENConnectionDrawingPolicy.cpp
+C:/UEBC2/parkjs/BattleEnded/Plugins/ElectronicNodes/Source/ElectronicNodes/Private/ENConnectionDrawingPolicy.cpp
 C:\UE\UE427\Engine\Source\Editor\BlueprintGraph\Public\BlueprintEditorSettings.h
 C:\UE\UE427\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph\BlueprintEditorSettings.generated.h
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENPathDrawer.h
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\ENPathDrawer.h
 C:\UE\UE427\Engine\Source\Editor\GraphEditor\Public\SGraphPanel.h
 C:\UE\UE427\Engine\Source\Runtime\Engine\Public\GraphEditAction.h
 C:\UE\UE427\Engine\Source\Editor\UnrealEd\Classes\MaterialGraph/MaterialGraphSchema.h
 C:\UE\UE427\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\MaterialGraphSchema.generated.h
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Policies/ENAnimGraphConnectionDrawingPolicy.h
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Policies/ENAnimGraphConnectionDrawingPolicy.h
 C:\UE\UE427\Engine\Source\Editor\AnimationBlueprintEditor\Private\AnimGraphConnectionDrawingPolicy.cpp
 C:\UE\UE427\Engine\Source\Editor\AnimationBlueprintEditor\Private\AnimGraphConnectionDrawingPolicy.h
 C:\UE\UE427\Engine\Source\Runtime\Engine\Classes\Animation/AnimBlueprint.h
@@ -197,10 +197,10 @@ C:\UE\UE427\Engine\Source\Editor\AnimGraph\Classes\AnimationGraphSchema.h
 C:\UE\UE427\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimationGraphSchema.generated.h
 C:\UE\UE427\Engine\Source\Editor\AnimGraph\Classes\AnimGraphNode_Base.h
 C:\UE\UE427\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimGraphNode_Base.generated.h
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Policies/ENBehaviorTreeConnectionDrawingPolicy.h
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Policies/ENBehaviorTreeConnectionDrawingPolicy.h
 C:\UE\UE427\Engine\Source\Editor\BehaviorTreeEditor/Private/BehaviorTreeConnectionDrawingPolicy.h
 C:\UE\UE427\Engine\Source\Editor\AIGraph\Public\AIGraphConnectionDrawingPolicy.h
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Policies/ENControlRigConnectionDrawingPolicy.h
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Policies/ENControlRigConnectionDrawingPolicy.h
 C:\UE\UE427\Engine\Plugins\Experimental\ControlRig\Source\ControlRigEditor/Private/Graph/ControlRigConnectionDrawingPolicy.cpp
 C:\UE\UE427\Engine\Plugins\Experimental\ControlRig\Source\ControlRigEditor\Private\Graph\ControlRigConnectionDrawingPolicy.h
 C:\UE\UE427\Engine\Plugins\Experimental\ControlRig\Source\ControlRigDeveloper\Public\Graph/ControlRigGraph.h
@@ -360,14 +360,14 @@ C:\UE\UE427\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4E
 C:\UE\UE427\Engine\Plugins\Experimental\ControlRig\Source\ControlRig\Public\ControlRigValidationPass.h
 C:\UE\UE427\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4Editor\Inc\ControlRig\ControlRigValidationPass.generated.h
 C:\UE\UE427\Engine\Plugins\Experimental\ControlRig\Intermediate\Build\Win64\UE4Editor\Inc\ControlRigDeveloper\ControlRigBlueprint.generated.h
-C:/Users/parkjs/Desktop/Github2/Plugins/ElectronicNodes/Source/ElectronicNodes/Private/ENPathDrawer.cpp
-C:/Users/parkjs/Desktop/Github2/Plugins/ElectronicNodes/Source/ElectronicNodes/Private/Patch/NodeFactoryPatch.cpp
+C:/UEBC2/parkjs/BattleEnded/Plugins/ElectronicNodes/Source/ElectronicNodes/Private/ENPathDrawer.cpp
+C:/UEBC2/parkjs/BattleEnded/Plugins/ElectronicNodes/Source/ElectronicNodes/Private/Patch/NodeFactoryPatch.cpp
 C:\UE\UE427\Engine\Source\Editor\AnimGraph\Classes\AnimationStateMachineSchema.h
 C:\UE\UE427\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraph\AnimationStateMachineSchema.generated.h
 C:\UE\UE427\Engine\Source\Editor\AnimationBlueprintEditor\Private\AnimationGraphFactory.h
-C:/Users/parkjs/Desktop/Github2/Plugins/ElectronicNodes/Source/ElectronicNodes/Private/Popup/ENUpdatePopup.cpp
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Popup\ENUpdateConfig.h
-C:\Users\parkjs\Desktop\Github2\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Inc\ElectronicNodes\ENUpdateConfig.generated.h
+C:/UEBC2/parkjs/BattleEnded/Plugins/ElectronicNodes/Source/ElectronicNodes/Private/Popup/ENUpdatePopup.cpp
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Source\ElectronicNodes\Private\Popup\ENUpdateConfig.h
+C:\UEBC2\parkjs\BattleEnded\Plugins\ElectronicNodes\Intermediate\Build\Win64\UE4Editor\Inc\ElectronicNodes\ENUpdateConfig.generated.h
 C:\UE\UE427\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SScrollBox.h
 C:\UE\UE427\Engine\Source\Runtime\Slate\Public\Widgets/Text/SRichTextBlock.h
 C:\UE\UE427\Engine\Source\Runtime\Slate\Public\Framework/Text/ITextDecorator.h
